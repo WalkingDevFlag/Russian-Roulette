@@ -40,7 +40,7 @@ Feel free to fork the repository and add your own hilarious twists to the game! 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LISCENSE).
 
 ## Disclaimer
 
