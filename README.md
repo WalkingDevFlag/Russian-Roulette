@@ -20,7 +20,7 @@ This Python script challenges you to guess a number between 1 and 10. If you gue
 To get started, clone this repository:
 
 ```bash
-git clone https://https://github.com/WalkingDevFlag/Russian-Roulette.git
+git clone https://github.com/WalkingDevFlag/Russian-Roulette.git
 cd russian-roulette
 ```
 
