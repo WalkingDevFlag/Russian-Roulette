@@ -11,7 +11,7 @@ This Python script challenges you to guess a number between 1 and 10. If you gue
 1. The script generates a random number between 1 and 10.
 2. You are prompted to guess that number.
 3. If your guess is correct, you'll see a triumphant "You Won!" message.
-4. If your guess is incorrect, the script humorously attempts to delete an important system file (which you definitely should not run)!
+4. If your guess is incorrect, the script humorously attempts to delete an important system file.
 
 **Warning:** Running this code as-is may lead to catastrophic consequences for your operating system! This is intended purely for comedic purposes and should never be executed in a real environment.
 
